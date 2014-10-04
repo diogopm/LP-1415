@@ -68,9 +68,10 @@ def var(lista):
 
 
 print 'Variância: ' + str(var(randomlist()))
-
+"""
 lista = ['a', 'b', 'c']
 # lista = [1,2,3,4,5]
 string_b = reduce(lambda x, y: x + y, lista)
 
 print string_b
+"""
